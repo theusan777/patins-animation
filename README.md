@@ -10,9 +10,6 @@ Demo: https://theusan777.github.io/patins-animation/
   <img src="./preview-hero_2.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./preview-galeria.png" width="100%" />
-</p>
 
 ## Sobre o projeto
 
