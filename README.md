@@ -7,7 +7,7 @@ Demo: https://theusan777.github.io/patins-animation/
 ## Preview
 
 <p align="center">
-  <img src="./preview-hero.png" width="100%" />
+  <img src="./preview-hero_2.png" width="100%" />
 </p>
 
 <p align="center">
